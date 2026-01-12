@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Drag0n Blog",
+        "description": "Dive into the world of dragons and other mystical lore.",
+        "url": "https://blog.drag0n.ca/",
+        "repository": null,
+        "status": "Live"
+    },
+    {
+        "name": "Project Æ (Ash)",
+        "description": "A future focus where we are building a mystical ethereal egg called \"Æ\". A fictional storyline oddly entwined with real-world events.",
+        "url": "https://ae.drag0n.ca",
+        "repository": "https://github.com/Drag0nPower/ae.drag0n.ca",
+        "status": "In Development"
+    }
+]
